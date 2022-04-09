@@ -20,8 +20,8 @@ Welcome to the UW Boost guide, or how to get jump started with technology at UW.
 - GraphQL
 
 ## Go
-For those that cherish the classroom experience Udemy has a great course that covers a range from fundamentals all the way to advanced language features.  
-- [learn how to code](https://www.udemy.com/course/learn-how-to-code/)
+For those that cherish the classroom experience Udemy has a great course that covers a range from fundamentals all the way to advanced language features. This is probably the best place to start for most people.  
+- [Learn how to code](https://www.udemy.com/course/learn-how-to-code/)
 
 For people that prefer the rustle of paper and self directed learning then the best place to start is *the* Go book
 - [The Go Programming Language](http://www.gopl.io/)
