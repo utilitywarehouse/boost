@@ -1,5 +1,5 @@
-# UW Jump Start
-Welcome to the UW jump start guide, below are a collection of resources that will be useful to work on our tech stack.  This is intended for people new to these technologies as well as anyone with experience looking for a bit of a cheat sheet.
+# UW Boost
+Welcome to the UW Boost guide, or how to get jump started with technology at UW. Below are a collection of resources that will be useful to work on our tech stack.  This is intended for people new to these technologies as well as anyone with experience looking for a bit of a cheat sheet.
 
 99% of all our services are written in Go, while the frontend is React, glued together with GraphQL.  At the moment this guide will focus on the two most important aspects for the majority of our developers Go and K8s.
 
