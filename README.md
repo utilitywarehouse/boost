@@ -29,10 +29,10 @@ A key concept to understand when working with k8s is that of a **namespace** and
 
 For example say we had the following clusters
 
--   Dev Cloud
--   Prod Cloud
--   Dev On Prem
--   Prod On Prem
+- Dev Cloud
+- Prod Cloud
+- Dev On Prem
+- Prod On Prem
 
 The contexts could be dev-cloud/prod-cloud and dev-prem/prod-prem
 
