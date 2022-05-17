@@ -7,19 +7,19 @@ Welcome to the UW Boost guide, or how to get jump started with technology at UW.
 ## Our Stack
 
 **Infrastructure**
--   K8s (Kubernets)
--   Terraform
--   AWS (Amazon Web Services)
--   GCP (Google Cloud Platform)
--   On Prem
+- K8s (Kubernets)
+- Terraform
+- AWS (Amazon Web Services)
+- GCP (Google Cloud Platform)
+- On Prem
 
 **The Backend**
--   Go (GoLang)
+- Go (GoLang)
 
 **The Frontend**
--   React
--   Typescript
--   GraphQL
+- React
+- Typescript
+- GraphQL
 
 # Infrastructure
 
@@ -78,12 +78,12 @@ k9s has its own documentation but labeling and keyboard shortcuts are pretty sel
 
 For those that cherish the classroom experience Udemy has a great course that covers a range from fundamentals all the way to advanced language features.
 
--   [Learn How To Code](https://www.udemy.com/course/learn-how-to-code/)
+- [Learn How To Code](https://www.udemy.com/course/learn-how-to-code/)
 
 For people that prefer the rustle of paper and self directed learning then the best place to start is _the_ Go book
 
--   [The Go Programming Language](http://www.gopl.io/)
+- [The Go Programming Language](http://www.gopl.io/)
 
 Finally for the hybrid person who wants self directed learning with an interactive element, Exercism has a good Go track. This is also a great way to learn how tests are written in Go as each exercise comes with the tests, for which you need to write code that passes them.
 
--   [Go on Exercism](https://exercism.org/tracks/go)
+- [Go on Exercism](https://exercism.org/tracks/go)
